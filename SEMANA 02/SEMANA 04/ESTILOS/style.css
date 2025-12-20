@@ -1,0 +1,68 @@
+h1 {
+   color:  black;
+   background-color:  lightpink;
+}
+
+nav a {
+    color: peru;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+main {
+    margin: 20px;
+    padding: 20px;
+    background-color: black;
+}
+
+/* Color de fondo general */
+body {
+    background-color: rosybrown
+    color: coral;
+    font-family: Arial, sans-serif;
+    margin: 5px;
+    padding: 5px;
+}
+
+/* Encabezados */
+h1, h2 {
+    text-align: center;
+    color: #b30059; /* color corporativo */
+}
+
+/* Navbar */
+.navbar {
+    background-color: #800040; /* color oscuro corporativo */
+}
+
+/* Links navbar */
+.navbar .nav-link {
+    color: #fff;
+}
+
+.navbar .nav-link:hover {
+    color: #ff80bf;
+}
+
+/* Imagen central */
+.img-fluid {
+    box-shadow: 0 0 15px rgba(0,0,0,0.2);
+}
+
+img {
+  max-width: 50%;  /* No sobrepasará el ancho de su contenedor */
+  height: auto;     /* Mantiene proporción */
+}
+
+/* Limitar un tamaño máximo específico */
+.img-pequena {
+  max-width: 300px; /* Ajusta a 50px de ancho máximo */
+  height: auto;
+  display: block;
+  margin: 0 auto;   /* Centrar la imagen */
+  }
+
+  /* Si quieres una imagen más pequeña */
+.img-pequena {
+  max-width: 300px;  /* Ajusta el tamaño según lo necesites */
+}

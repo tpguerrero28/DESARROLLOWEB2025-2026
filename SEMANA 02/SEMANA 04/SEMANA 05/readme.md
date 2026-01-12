@@ -11,7 +11,7 @@ Esta aplicación permite agregar, seleccionar y eliminar imágenes dinámicament
 ## Visualización
 
 El proyecto está publicado en GitHub Pages:  
-https://github.com/tpguerrero28/DESARROLLOWEB2025-2026/tree/master/SEMANA%2002
+https://github.com/tpguerrero28/DESARROLLOWEB2025-2026/tree/master/SEMANA%2002/SEMANA%2004/SEMANA%2005
 
 ## Repositorio
 
